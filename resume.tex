@@ -7,6 +7,7 @@
 \usepackage{graphicx}
 \usepackage{hyperref}
 \usepackage{kotex}
+\usepackage{color}
 
 % Set up
 % ------
@@ -55,6 +56,14 @@
 
   % TODO: 무엇을 하고 싶지?
   % ~~~~~~~~~~~~~~~~~~~~
+  % something...
+
+
+  % Hobbies
+  % -------
+  \section{취미}
+
+  제 취미는 이맥스 설정 파일을 관리하는 겁니다.
 
 
   % Skills
@@ -131,12 +140,15 @@
   {
     \small
     \begin{itemize}
-    \item[-] Emacs(package),
+    \item[-] Emacs({\footnotesize clojure-mode package}),
       \href{https://github.com/clojure-emacs/clojure-mode/pull/263}
-      {\textcolor[gray]{0.5}{(Rejected)} Fixed that wrong indentation}.
-    \item[-] Emacs(package),
+      {\textcolor[gray]{0.5}{[Rejected]} Fixed that wrong indentation}.
+    \item[-] Emacs({\footnotesize clojure-mode package}),
       \href{https://github.com/clojure-emacs/clojure-mode/pull/257}
       {Fix for that wrong indentation in multi-arity forms}.
+    \item[-] Emacs({\footnotesize aggressive-indent-mode package}),
+      \href{https://github.com/Bruce-Connor/aggressive-indent-mode/pull/30}
+      {Prevent that to replace the 'message' func to 'ignore' func}.
     \end{itemize}
   }
 
@@ -145,7 +157,7 @@
   {
     \small
     \begin{itemize}
-    \item[-] Emacs(package),
+    \item[-] Emacs({\footnotesize ido-vertical-mode package}),
       \href{https://github.com/gempesaw/ido-vertical-mode.el/issues/14#issuecomment-74077234}
       {Find-file that doesn't exist doesn't display confirmation dialog}.
     \item[-] Emacs,

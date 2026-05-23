@@ -1,4 +1,4 @@
 # Resume
 Moved to https://gitlab.com/vmfhrmfoaj/resume
 
-[![resume.pdf](https://gitlab.com/vmfhrmfoaj/resume/-/jobs/artifacts/master/raw/resume.png?job=upload)](https://gitlab.com/vmfhrmfoaj/resume/-/jobs/artifacts/master/raw/resume.pdf?job=upload)
+[![resume.pdf](https://www.jinseop.kim/f46dd13f-1f4e-4e23-90b9-af6b716c4738/resume.pdf)
